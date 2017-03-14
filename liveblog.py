@@ -1,0 +1,1 @@
+s = 'Django is cool'
